@@ -7,12 +7,10 @@ General Setup:
 
 3. Set the file path to the location of the chrome driver.     
 (From within the code)
-
 driver = webdriver.Chrome(r"C:\Users\USERNAME\Desktop\FOLDER\chromedriver")
 
 4. Change the username and password credentials for each site. 
 (from within the code)
-
 #1st Tab Login Page
 driver.find_element(By.XPATH, "//button[@id='dropdownMenuButton']").click()
 driver.find_element(By.XPATH, "//input[@id='UserName']").send_keys('**********') #replace with your own username
