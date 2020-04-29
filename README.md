@@ -1,4 +1,4 @@
-# LTL-Quote-Automator
+# Light Truck Load Quote Automator
 A program that will auto generate quotes from multiple websites, developed with Selenium, tkinter, and python.
 
 #Works on Linux. THe program also runs smoother and faster on Linux. 
