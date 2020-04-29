@@ -1,9 +1,12 @@
 # LTL-Quote-Automator
 A program that will auto generate quotes from multiple websites, developed with Selenium, tkinter, and python.
 
+#Works on Linux. THe program also runs smoother and faster on Linux. 
+#Used to work on windows. Trying to figure why it no longer runs on window.
+
 General Setup:
 1. Make sure to install the correct chromedriver for your browser. (https://chromedriver.chromium.org/getting-started)
-2. Make sure the driver is in the same folder and the python file. 
+2. Make sure the driver is in the same folder as the python file. 
 
 3. Set the file path to the location of the chrome driver.     
 (From within the code)
