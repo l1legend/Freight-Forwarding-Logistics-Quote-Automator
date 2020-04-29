@@ -24,7 +24,7 @@ Usage:
 2. Input values for Handling Unit, Pieces, Description, Length, Width, Height, Weight. You can press the "Caculate Class" to auto calculate the value for Class if Length, Width, Height, and Weight have been entered.
 3. A test entry set is 1, 1, engine, 60, 42, 60, 2256, 65. 
 4. Click "Add Set" to confirm the data set. If there are multiple sets of data, click "Add Set" after inputting eaching set.
-5. Click "Get Quote" to generate quotes from the Chrome Browser. A brower session will open indicating that "Chrome is being controlled by automaed test software. The program should iterate data entries for the first website. A total of five tabs should open.
+5. Click "Get Quote" to generate quotes from the Chrome Browser. A brower session will open indicating that "Chrome is being controlled by automated test software. The program should correctly iterate through the data-sets, input the data into the entry fields and generate a quote for the first website. A total of five tabs should open.
 
 
 
