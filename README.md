@@ -1,8 +1,9 @@
 # Light Truck Load Quote Automator
 A program that will auto generate quotes from multiple websites, developed with Selenium, tkinter, and python.
 
-#Works on Linux. The program also runs smoother and faster on Linux. 
-#Used to work on windows. Trying to figure why it no longer runs on window.
+Runs on both Windows and Linux.
+The program runs smoother and faster on Linux. 
+
 
 General Setup:
 1. Make sure to install the correct chromedriver for your browser. (https://chromedriver.chromium.org/getting-started)
