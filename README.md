@@ -1,10 +1,6 @@
 # Light Truck Load Quote Automator
 A program that will auto generate quotes from multiple websites, developed with Selenium, tkinter, and python.
 
-Runs on both Windows and Linux.
-The program runs smoother and faster on Linux. 
-
-
 General Setup:
 1. Make sure to install the correct chromedriver for your browser. (https://chromedriver.chromium.org/getting-started)
 2. Make sure the driver is in the same folder as the python file. 
@@ -25,7 +21,7 @@ Usage:
 2. Input values for Handling Unit, Pieces, Description, Length, Width, Height, Weight. You can press the "Caculate Class" to auto calculate the value for Class if Length, Width, Height, and Weight have been entered.
 3. A test entry set is 1, 1, engine, 60, 42, 60, 2256, 65. 
 4. Click "Add Set" to confirm the data set. If there are multiple sets of data, click "Add Set" after inputting eaching set.
-5. Click "Get Quote" to generate quotes from the Chrome Browser. A brower session will open indicating that "Chrome is being controlled by automated test software. The program should correctly iterate through the data-sets, input the data into the entry fields and generate a quote for the first website. A total of five tabs should open.
+5. Click "Get Quote" to generate quotes from the Chrome Browser. A brower session will open indicating that "Chrome is being controlled by automated test software. The program should correctly iterate through the data-sets, input the data into the entry fields and generate a quote for the first website. A total of three tabs should open.
 
 
 
